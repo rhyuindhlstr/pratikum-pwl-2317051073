@@ -8,7 +8,6 @@
     <div class="row justify-content-center">
         <div class="col-md-6">
             <div class="card shadow-lg border-0 rounded-4" style="background-color:#fff;">
-                {{-- Header card dengan gradient pink-orange --}}
                 <div class="card-header text-white text-center rounded-top-4" 
                      style="background: linear-gradient(90deg, #f9a8d4, #fcd34d);">
                     <h4 class="mb-0"><i class="bi bi-person-plus-fill"></i> Buat Pengguna Baru</h4>
